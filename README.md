@@ -10,7 +10,7 @@ matches naming targets, and renames it automatically using a standardized
 date-prefix convention — without human intervention.
 
 ## Flow Logic
-![Flow Diagram](assets/PowerAutomate_Flow.png)
+![Flow Diagram](images/PowerAutomate_Flow.png)
 
 ### Key steps:
 - **Trigger:** File created in SharePoint (properties only)
