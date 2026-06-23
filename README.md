@@ -1,5 +1,3 @@
-# power-automate-file-naming
-
 # Automated File Naming Flow — Power Automate
 
 ## Business Problem
